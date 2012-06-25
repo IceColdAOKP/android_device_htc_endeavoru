@@ -95,7 +95,7 @@ PRODUCT_COPY_FILES += \
 
 # Any prebuilt kernel modules
 PRODUCT_COPY_FILES += \
-        ddevice/htc/endeavoru/modules/baseband_usb_chr.ko:system/lib/modules/baseband_usb_chr.ko \
+        device/htc/endeavoru/modules/baseband_usb_chr.ko:system/lib/modules/baseband_usb_chr.ko \
         device/htc/endeavoru/modules/baseband-xmm-power2.ko:system/lib/modules/baseband-xmm-power2.ko \
         device/htc/endeavoru/modules/bluetooth.ko:system/lib/modules/bluetooth.ko \
         device/htc/endeavoru/modules/bnep.ko:system/lib/modules/bnep.ko \
