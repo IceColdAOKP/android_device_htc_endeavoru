@@ -84,7 +84,7 @@
          than the size of the config_autoBrightnessLevels array.
     -->
     <integer-array name="config_autoBrightnessLcdBacklightValues">
-        <item>30</item>
+        <item>35</item>
         <item>47</item>
         <item>60</item>
         <item>88</item>
@@ -175,6 +175,9 @@
          should be empty.  An example would be "softap.*" -->
     <string-array translatable="false" name="config_tether_wifi_regexs">
         <item>"wlan1"</item>
+	<item>"wlan0"</item>
+	<item>"wl0.1"</item>
+	<item>"tiap0"</item>
     </string-array>
 
     <!-- List of regexpressions describing the interface (if any) that represent tetherable
