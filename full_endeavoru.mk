@@ -167,6 +167,12 @@ PRODUCT_PACKAGES += \
     VisualizationWallpapers \
     librs_jni
 
+# DSPManager
+PRODUCT_PACKAGES += \
+    DSPManager \
+    libcyanogen-dsp \
+    audio_effects.conf
+
 # Filesystem management tools
 PRODUCT_PACKAGES += \
     make_ext4fs \
