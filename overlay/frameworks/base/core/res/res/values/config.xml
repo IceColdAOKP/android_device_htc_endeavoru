@@ -211,7 +211,7 @@
     <bool name="config_animateScreenLights">true</bool>
 
     <!-- CRT animations. -->
-    <bool name="config_screenOffAnimation">true</bool>
+    <!--  <bool name="config_screenOffAnimation">true</bool> -->
 
     <bool name="config_allowAllRotations">true</bool>
 
