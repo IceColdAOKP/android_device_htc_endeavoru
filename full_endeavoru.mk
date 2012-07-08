@@ -107,7 +107,6 @@ PRODUCT_COPY_FILES += \
         device/htc/endeavoru/modules/fm_drv.ko:system/lib/modules/fm_drv.ko \
         device/htc/endeavoru/modules/gps_drv.ko:system/lib/modules/gps_drv.ko \
         device/htc/endeavoru/modules/hci_uart.ko:system/lib/modules/hci_uart.ko \
-        device/htc/endeavoru/modules/hid-magicmouse.ko:system/lib/modules/hid-magicmouse.ko \
         device/htc/endeavoru/modules/hidp.ko:system/lib/modules/hidp.ko \
         device/htc/endeavoru/modules/htc_sqos_ctrlmsg.ko:system/lib/modules/htc_sqos_ctrlmsg.ko \
         device/htc/endeavoru/modules/htc_sqos_encoder.ko:system/lib/modules/htc_sqos_encoder.ko\
