@@ -163,8 +163,8 @@ PRODUCT_PACKAGES += \
 #    libfmrx
 
 # Missed apps
-PRODUCT_PACKAGES += \
-	Torch
+#PRODUCT_PACKAGES += \
+#	Torch
 
 # Misc
 PRODUCT_PACKAGES += \
